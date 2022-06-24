@@ -16,7 +16,7 @@ const Parabelum = () => (
         <h6>Designing a landing page for an established services company</h6>
       </div>
       <p>
-        <a href="https://parabelumhaircare.com" target="_blank" rel="noreferrer">
+        <a href="#" target="_blank" rel="noreferrer">
           Parabelum →
         </a>
         <br />
@@ -25,7 +25,7 @@ const Parabelum = () => (
 
       <div className="img-wrapper">
         <StaticImage
-          src="https://rscbucket.s3.us-east-2.amazonaws.com/parabelum-main.jpg"
+          src="../images/parabellum-1.jpgg"
           className="hero-img"
           width={1280}
           quality={100}
